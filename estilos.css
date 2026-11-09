@@ -17,3 +17,28 @@ nav {
     text-align: center;
     padding: 15px;
 }
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+main {
+    width: 85%;
+    margin: 20px auto;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+button {
+    background-color: #176b3a;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
